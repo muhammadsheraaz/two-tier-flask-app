@@ -1,6 +1,10 @@
  
 # Flask App with MySQL Docker Setup
 
+This was a pre built , i have created a docker network named "toe-tier" and enbaled communication btw both . It was my practice for docker netwroking that is very import concept in docker.
+
+# Flask App with MySQL Docker Setup
+
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
 
 ## Prerequisites
