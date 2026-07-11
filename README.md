@@ -1,7 +1,7 @@
  
 # Flask App with MySQL Docker Setup
 
-This was a pre built FLASK APP , I have created a docker network named "two-tier" and enbaled communication btween both . It was my practice for docker netwroking that is very import concept in docker.
+This was a pre built FLASK APP , I have created a docker network named "two-tier" and enbaled communication btween both  and written docker-compose file to automate work of multiple commands (build, run etc) .I t helps manage multiple container using a single file. It was my practice for docker netwroking and docker-commpose that are very import concepts in docker.
 
 # Flask App with MySQL Docker Setup
 
